@@ -1,0 +1,9 @@
+{"nombre":"cesar","edad":"21","correo":"cesar@.com"}
+{"nombre":"cesar","edad":"21","correo":"cesar@.com"}
+{"nombre":"cesar","edad":"21","correo":"cesar@.com"}
+{"nombre":"cesar","edad":"21","correo":"cesar@.com"}
+{"nombre":"cesar","edad":21,"correo":"cesaralexis.com"}
+{"nombre":"prueba1","edad":76,"correo":"prueba2"}
+{"nombre":"prueba2","edad":54,"correo":"carlos.com"}
+{"nombre":"fdfsdg","edad":43,"correo":"vxbfgb"}
+{"nombre":"regina flores","edad":14,"correo":"regina.com"}
